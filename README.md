@@ -4,7 +4,7 @@ More About Me:
 - 💼 I'm currently Working Student - Software Developer at **SAP**
 - 👀 I’m currently a MSc. Computer Science Student
 - 🌱 I’m currently learning the Integration of Artificial Intelligence into web Applications using DSA
-- 🤔 My Intrests are with Full Stack Web Development, Backend Development and IT Security
+- 🤔 My Intrests are with Full Stack Web Development, Artificial Intelligence and Cloud
 - 📫 Please reach me through email via [mohithtummala.mt@gmail.com]
 - 📝 Have a look onto my [Personal Portfolio](https://www.mohithtummala.de/) for more info.
 
