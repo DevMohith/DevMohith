@@ -5,17 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+&+DevOps+Learner;&center=true&width=380&height=45">
 </p>
 
-- 🌱 I’m currently learning **Generative AI, GCP, and PyTorch**
-- 💻 Building: **DevAI - AI-Powered Developer Automation Tool**
-- 🔭 Exploring: **Cloud + AI combo projects**
-- 📫 Reach me at: **devmohith@example.com** (update this!)
+- 🌱 I’m currently learning **Gen AI, GCP, Python, Typescript**
+- 🔭 Exploring: **Web Development + Cloud + AI combo projects**
+- 📫 Reach me at: **mohithtummala.de@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,py,flask,docker,gcp,firebase,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,py,flask,docker,gcp,firebase,linux,git,github,node," />
 </p>
 
 ---
@@ -25,9 +24,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevMohith&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohith&layout=compact&theme=tokyonight)
 
----
-
-### 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevMohith&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
