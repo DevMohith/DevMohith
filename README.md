@@ -25,5 +25,5 @@ Reach me at: **mohithtummala.de@gmail.com**
 
 ---
 
-> "Code is not just syntax. It's creativity, automation, and transformation." — *You*
+> "Code is not just syntax. It's creativity, automation, and transformation." — Mohith Tummala
 
