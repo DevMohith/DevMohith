@@ -11,7 +11,7 @@ Reach me at: **mohithtummala.de@gmail.com**
 **My TechStack**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,py,flask,docker,gcp,firebase,linux,git,github,node," />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,py,flask,docker,gcp,firebase,linux,git,github,node,pytorch" />
 </p>
 
 ---
