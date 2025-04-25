@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohith</h1>
 <h3 align="center">A Passionate Fullstack Developer & AI Explorer</h3>
+
+
+
 <h4 align="center">Currently Learning &nbsp <img src="https://skillicons.dev/icons?i=linux" /> </h4>
 
 <p align="center">
