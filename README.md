@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohith</h1>
 <h3 align="center">A Passionate Fullstack Developer & AI Explorer</h3>
+<h4 align="center">Currently Learning  <img src="https://skillicons.dev/icons?i=linux" /> </h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+&+DevOps+Learner;&center=true&width=380&height=45">
