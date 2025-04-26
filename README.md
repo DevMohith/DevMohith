@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohith</h1>
 <h3 align="center">A Passionate Fullstack Developer & AI Explorer</h3>
-<h4 align="center">Currently Learning <p align="center">
+<h4 align="center">Currently Learning <span align="center">
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p></h4>
+</span></h4>
 
 
 
