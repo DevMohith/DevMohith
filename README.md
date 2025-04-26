@@ -3,7 +3,7 @@
 <h4 align="center">Currently Learning</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LINUX-ff014f?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <p align="center">
