@@ -28,11 +28,6 @@ Reach me at: **mohithtummala.de@gmail.com**
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevMohith&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohith&layout=compact&theme=tokyonight)
-
----
-<p align="center">
-  <img src="./genai-fullstack-developer.png" width="600" alt="GenAI Fullstack Developer" />
-</p>
 ---
 
 > "Code is not just syntax. It's creativity, automation, and transformation." — Mohith Tummala
