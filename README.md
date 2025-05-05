@@ -35,6 +35,7 @@ Reach me at: **mohithtummala.de@gmail.com**
 ![OAuth2](https://img.shields.io/badge/OAuth2-1565C0?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-FFB300?style=for-the-badge)
 ![Logging](https://img.shields.io/badge/Logging-795548?style=for-the-badge)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-FFA000?style=for-the-badge&logo=nginx&logoColor=white)
 ![Tracing](https://img.shields.io/badge/Tracing-455A64?style=for-the-badge)
 ![Serverless](https://img.shields.io/badge/Serverless-F06292?style=for-the-badge)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-673AB7?style=for-the-badge)
