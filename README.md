@@ -7,8 +7,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+&+DevOps+Learner;&center=true&width=380&height=45">
 </p>
-My Portfolio website: www.mohithtummala.de
 
+AI and Automation Developer @ **SAP SE**
+My Portfolio website: www.mohithtummala.de
 Please Reach me at: **mohithtummala.de@gmail.com**
 
 ---
