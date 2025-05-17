@@ -9,7 +9,9 @@
 </p>
 
 AI and Automation Developer @ **SAP SE**
+
 My Portfolio website: www.mohithtummala.de
+
 Please Reach me at: **mohithtummala.de@gmail.com**
 
 ---
