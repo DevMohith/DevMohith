@@ -8,11 +8,28 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+&+DevOps+Learner;&center=true&width=380&height=45">
 </p>
 
-AI and Automation Developer @ **SAP SE**
+### Experience 👨‍💻 
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-My Portfolio website: www.mohithtummala.de
+*8.04.2024* - *31.03.2026* (in progress)  
+**WerkStudent - Full Stack Developer AI & Automation (Internship)**  
+SAP SE.
 
-Please Reach me at: **mohithtummala.de@gmail.com**
+*02.12.2023* - *30.02.2024*  
+**Full Stack Developer (intern)**  
+A.N.D Intern. 
+
+*10.10.2023* - *29.11.2023*  
+**Web Developer (Intern)**  
+MotionCut
+  
+ *06.06.2013* - *10.10.2023*  
+**Full Stack Developer Trainee**  
+Digital Lync 
+  
+*21.03.2022* - *04.04.2023*  
+**Network Operations Engineer**  
+Diebold Nixdorf.  
 
 ----
 **My TechStack**
