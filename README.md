@@ -9,7 +9,7 @@
 </p>
 
 ### Experience 👨‍💻 
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
 *8.04.2024* - *31.03.2026* (in progress)  
 **WerkStudent - Full Stack Developer AI & Automation (Internship)**  
@@ -65,7 +65,7 @@ Diebold Nixdorf.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DevMohith&label=Profile%20views&color=0e75b6&style=flat)
 
-<img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevMohith&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevMohith&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
