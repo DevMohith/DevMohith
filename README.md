@@ -22,7 +22,7 @@ Osmania University, Hyderabad (OU).
 <img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
 *25.03.2025* - *Current*
-**WerkStudent - Full Stack Developer AI & Automation (Internship)**  
+**WerkStudent - Full Stack Developer AI**  
 SAP SE.
 
 *02.12.2023* - *30.02.2024*  
