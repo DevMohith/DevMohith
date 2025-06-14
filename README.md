@@ -4,16 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+&+DevOps+Learner;&center=true&width=380&height=45">
 </p>
----
 
-Education 🎓
+### Education🎓
 
-01.04.2024 - 01.04.2026 (in progress)
-Masters of Science in Applied Computer Science
+*01.04.2024* - *01.04.2026* (in progress)
+**Masters of Science in Applied Computer Science**
 SRH University Heidelberg, Germany.
 
-24.08.2014 - 14.06.2019
-Bachelor of Computer Science
+*24.08.2014* - *14.06.2019*
+**Bachelor of Computer Science**
 Osmania University, Hyderabad (OU).
 
 ---
