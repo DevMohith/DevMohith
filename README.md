@@ -1,17 +1,27 @@
 <h1 align="center">Hello There, I'm Mohith</h1>
 <h3 align="center">A Passionate Fullstack Developer & AI Explorer</h3>
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+&+DevOps+Learner;&center=true&width=380&height=45">
 </p>
+---
+
+Education 🎓
+
+01.04.2024 - 01.04.2026 (in progress)
+Masters of Science in Applied Computer Science
+SRH University Heidelberg, Germany.
+
+24.08.2014 - 14.06.2019
+Bachelor of Computer Science
+Osmania University, Hyderabad (OU).
+
+---
 
 ### Experience 👨‍💻 
 <img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
-*8.04.2024* - *31.03.2026* (in progress)  
+*25.03.2025* - *Current*
 **WerkStudent - Full Stack Developer AI & Automation (Internship)**  
 SAP SE.
 
