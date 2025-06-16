@@ -73,7 +73,7 @@ Diebold Nixdorf.
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DevMohith&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=DevMohith&label=Profile%20views&color=0e75b6&style=flat) <br>
 <img align="center" alt="Coding" width="700" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevMohith&show_icons=true&theme=tokyonight)
