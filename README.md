@@ -7,7 +7,7 @@
 
 ### Education🎓
 
-*01.04.2024* - *01.04.2026* (in progress)
+*01.04.2024* - *Current*
 **Masters of Science in Applied Computer Science**
 SRH University Heidelberg, Germany.
 
