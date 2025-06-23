@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer & AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+&+DevOps+Learner;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Engineer+in+Progress;Cloud+DevOps+Professional;&center=true&width=380&height=45">
 </p>
 
 ### Education🎓
