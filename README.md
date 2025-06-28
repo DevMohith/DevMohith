@@ -17,7 +17,7 @@ Osmania University, Hyderabad (OU).
 
 ---
 
-### Experience 👨‍💻 
+### Experience- 👨‍💻 
 
 <img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
