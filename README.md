@@ -11,7 +11,7 @@
 **Masters of Science in Applied Computer Science**
 SRH University Heidelberg, Germany.
 
-*24.08.2014* - *14.06.2019*
+*24.08.2017* - *14.06.2021*
 **Bachelor of Computer Science**
 Osmania University, Hyderabad (OU).
 
