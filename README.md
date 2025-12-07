@@ -77,9 +77,7 @@ Diebold Nixdorf.
 <img align="center" alt="Coding" width="700" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevMohith&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevMohith&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohith&layout=compact&theme=tokyonight)
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevMohith&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 
