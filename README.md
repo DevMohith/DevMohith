@@ -82,5 +82,4 @@ Diebold Nixdorf.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohith&layout=compact&theme=tokyonight)
 ---
 
-> "Code is not just syntax. It's creativity, automation, and transformation." — Mohith Tummala
 
