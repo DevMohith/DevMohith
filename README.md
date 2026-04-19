@@ -7,7 +7,7 @@
 
 ### Education🎓
 
-*01.04.2024* - *Current*
+*31.03.2024* - *31.04.2026*
 **Masters of Science in Applied Computer Science**
 SRH University Heidelberg, Germany.
 
@@ -21,7 +21,11 @@ Osmania University, Hyderabad (OU).
 
 <img align="right" alt="Coding" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
-*25.03.2025* - *Current*
+*29.09.2025* - *31.03.2026*
+**WerkStudent - AI Engineer**  
+Signavio, SAP SE.
+
+*25.03.2025* - *29.09.2025*
 **WerkStudent - Full Stack Developer AI**  
 SAP SE.
 
