@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Mohith</h1>
-<h3 align="center">A Passionate Fullstack Developer & AI Explorer</h3>
+<h3 align="center">A Passionate Full-Stack Developer & AI Engineer</h3>
 
 ### Education🎓
 
