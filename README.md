@@ -3,7 +3,7 @@
 
 ### Education🎓
 
-*31.03.2024* - *31.04.2026*
+*31.03.2024* - *31.03.2026*
 **Masters of Science in Applied Computer Science**
 SRH University Heidelberg, Germany.
 
