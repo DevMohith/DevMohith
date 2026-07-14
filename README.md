@@ -38,7 +38,7 @@ MotionCut
 Digital Lync 
   
 *21.03.2022* - *04.04.2023*  
-**Network Operations Engineer**  
+**Software Engineer**  
 Diebold Nixdorf.  
 
 ----
